@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there 👋 I'm Sourav ...
 
-<!--
-**Sourav0010/Sourav0010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on Java WebApplications
+- 🌱 I’m currently learning SpringBoot
+- 👯 I’m looking to collaborate on Android Open Source Project
+- 🤔 I’m looking for help with JavaScript
+- 💬 Ask me about Java 
+- 📫 How to reach me: Twitter
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I'm Laughing!
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+ <img src="https://github-readme-stats.vercel.app/api?username=Sourav0010&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sourav0010&show_icons=true&theme=radical">
