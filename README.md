@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Calculator App](https://github.com/Sourav0010/Calculator)
 
-- 🌱 I’m currently learning **JS,TypeScript,Next.JS,React**
+- 🌱 I’m currently learning **JS,TypeScript,Next.JS,React JS**
 
 - 👯 I’m looking to collaborate on [NewPipe](https://github.com/TeamNewPipe/NewPipe)
 
