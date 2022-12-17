@@ -15,7 +15,7 @@
 
 - 📝 I regularly write articles on [Not Yet Created](Not Yet Created)
 
-- 💬 Ask me about **Java, Android Development**
+- 💬 Ask me about **Java, JavaScript,ReactJs, Android Development**
 
 - 📫 How to reach me **mohantysourav66@gmail.com**
 
