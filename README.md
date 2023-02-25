@@ -1,3 +1,4 @@
+<img src="https://api.daily.dev/devcards/ab5773d6c89741eca912c11e436a14bf.png?r=po5">
 <h1 align="center">Hi 👋, I'm Sourav Mohanty</h1>
 <h3 align="center">A passionate Java/Android/Full-Stack Web developer from India</h3>
 
