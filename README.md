@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Sourav Mohanty</h1>
 <h3 align="center">A passionate Java/Android/Full-Stack Web developer from India</h3>
-<img src="https://api.daily.dev/devcards/ab5773d6c89741eca912c11e436a14bf.png?r=po5">
+<a href="https://app.daily.dev/sourav010"><img src="https://api.daily.dev/devcards/v2/CYQEUpTHao3xsBCdegLDf.png?type=wide&r=elh" width="652" alt="Sourav Mohanty's Dev Card"/></a>
 <p align="left"> <a href="https://twitter.com/SOURAV00010" target="blank"><img src="https://img.shields.io/twitter/follow/SOURAV00010?logo=twitter&style=for-the-badge" alt="Twitter Handle" /></a> </p>
 
 - 🔭 I’m currently working on [Calculator App](https://github.com/Sourav0010/Calculator)
