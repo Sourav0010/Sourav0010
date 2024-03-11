@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Sourav Mohanty</h1>
 <h3 align="center">A passionate Java/Android/Full-Stack Web developer from India</h3>
 <img src="https://api.daily.dev/devcards/ab5773d6c89741eca912c11e436a14bf.png?r=po5">
-<p align="left"> <a href="https://twitter.com/SOURAV00010?t=knS0vojVttRkH-T4KQ7_jA&s=09" target="blank"><img src="https://img.shields.io/twitter/follow/SOURAV00010?logo=twitter&style=for-the-badge" alt="Twitter Handle" /></a> </p>
+<p align="left"> <a href="https://twitter.com/SOURAV00010" target="blank"><img src="https://img.shields.io/twitter/follow/SOURAV00010?logo=twitter&style=for-the-badge" alt="Twitter Handle" /></a> </p>
 
 - 🔭 I’m currently working on [Calculator App](https://github.com/Sourav0010/Calculator)
 
@@ -22,10 +22,10 @@
 
 - ⚡ Fun fact **I'm Laughing..**
 [![@sourav010's Holopin board](https://holopin.io/api/user/board?user=sourav010)](https://holopin.io/@sourav010)
-[![@sourav010's Holopin board](https://holopin.me/sourav010)](https://holopin.io/@sourav010)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/sourav190110942" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sourav190110942" height="30" width="40" /></a>
+<a href="https://twitter.com/SOURAV00010" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sourav190110942" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
